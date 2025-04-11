@@ -1,4 +1,4 @@
-[GitHub Pages](https://oksanabannova.github.io/props--films/)
+[GitHub Pages](https://oksanabannova.github.io/props-listing/)
 
 
 
